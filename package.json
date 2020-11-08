@@ -8,6 +8,7 @@
     "test": "ng test",
     "lint": "ng lint"
   },
+  "main": "src/main.ts",
   "private": true,
   "dependencies": {
     "@angular/animations": "~10.2.0",
